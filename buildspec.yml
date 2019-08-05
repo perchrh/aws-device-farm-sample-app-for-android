@@ -12,6 +12,6 @@ phases:
 
 artifacts:
   files:
-     - './app/build/outputs/apk/*-apk'
+     - './app/build/outputs/apk/*.apk'
      - './prebuilt/app-debug-androidTest.apk'
   discard-paths: yes
